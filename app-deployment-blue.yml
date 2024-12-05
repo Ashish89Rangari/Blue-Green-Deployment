@@ -34,3 +34,4 @@ spec:
             memory: "1000Mi"
             cpu: "1000m"
   
+ 
