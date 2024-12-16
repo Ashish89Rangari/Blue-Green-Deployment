@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
@@ -84,11 +83,11 @@
 		<distributionManagement>
         <repository>
             <id>maven-releases</id>
-            <url>http://13.127.2.38:8081/repository/maven-releases/</url>
+            <url>http://65.2.129.62:8081/repository/maven-releases/</url>
         </repository>
         <snapshotRepository>
             <id>maven-snapshots</id>
-            <url>http://13.127.2.38:8081/repository/maven-snapshots/</url>
+            <url>http://65.2.129.62:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
 
