@@ -40,7 +40,7 @@ BANK Application Output. EKS LoadBalancer URL Before DNS Mapping.
 
 EKS LoadBalancer URL Before DNS Mapping.
 
-<a href="www.ashucolors.xyz"> EKS LoadBalancer URL After DNS Mapping application LINK </a>
+<a href="www.ashucolors.xyz"> EKS LoadBalancer URL After DNS Mapping application LINK (www.ashucolors.xyz)</a>
 
 ![image](https://github.com/user-attachments/assets/50f3e077-1456-45ca-a390-50274dcdb4d5)
 
