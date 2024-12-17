@@ -27,3 +27,8 @@ CICD Pipeline project , a BANK Application using Blue Green Deployment.
 How application will communicate inside the cluster (Cluster pod communication)
 
 ![image](https://github.com/user-attachments/assets/46fd09bb-283f-41e2-8352-915dfa06e9d6)
+
+
+# Application Output and URL
+
+Docker-ReactJS-app deployed on NGINX web-server.
