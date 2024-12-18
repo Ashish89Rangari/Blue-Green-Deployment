@@ -53,7 +53,7 @@ SonarQube Code Review server.
 
 ![image](https://github.com/user-attachments/assets/4d0ea10d-e54d-4818-9546-82ddd52b65e6)
 
-Nexus Artifact  Repositiry Storage server.
+Nexus Artifact  Repository Storage server.
 
 ![image](https://github.com/user-attachments/assets/1ec7bb55-4d95-45e3-bb1a-24329fb253c7)
 
