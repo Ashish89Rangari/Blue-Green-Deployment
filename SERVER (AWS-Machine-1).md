@@ -65,10 +65,10 @@ $ sudo snap install kubectl  --classic
 
 ```
 To connect with Kubernetes EKS Cluster, We aren't connected execute below command.
-Here-  devopsshack-cluster - EKS cluster name, ap-south-1 - AWS region name
+Here-  devopsashu-cluster - EKS cluster name, ap-south-1 - AWS region name
 
 ```bash
-$ aws  eks  --region ap-south-1 update-kubeconfig --name devopsshack-cluster
+$ aws  eks  --region ap-south-1 update-kubeconfig --name devopsashu-cluster
 
 ```
 To Check EKS cluster pods 
