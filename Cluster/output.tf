@@ -1,3 +1,9 @@
+
+# provides visibility into critical information about the infrastructure created.
+# such as cluster id, node group id etc
+# It outputs resource attributes or computed values, making them accessible after deployment. 
+
+
 output "cluster_id" {
   value = aws_eks_cluster.devopsashu.id
 }
