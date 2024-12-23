@@ -225,3 +225,5 @@ To generate the K8S authentication token.
 $ kubectl describe secret mysecretname -n webapps
 
 ```
+
+
