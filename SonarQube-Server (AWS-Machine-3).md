@@ -59,6 +59,10 @@ $ docker ps
 # For Linux (Access SonarQube Server)
 The application will be accessible at http://public-ip:9000
 
+
+
+
+
 Acess SonarQube server. Username and Password
 
 ```bash
